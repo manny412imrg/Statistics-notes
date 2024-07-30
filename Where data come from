@@ -20,4 +20,14 @@ Data collected for very specific reasons, rather than simple reflections of ongo
 For analyzing data, regardless of sources, an important question:
 Are the Data independent and identically distributed?
 What if Data are NOT I.i.d.?
+Quantitative Variables
+Numerical, measurable quantities in which arithmetic operations often make sense.
+•	Continuous – could take on any value within an interval, many possible values
+•	Discrete – countable values, finite number of balues
+Categorical (or Qualitative) Variables
+•	Classifies individuals or items into different groups
+Confirmatory vs Exploratory Research
+Confirmatory: Scientific method – specify falsifiable hypothesis, then test it -> collect and analyze data without first pre-specifying question
+CAUTION: Informative but watch out for “overfitting” , “multiple testing” “p-hacking”
+The more question you sak from a dataset -> the more likely you are to draw a misleading conclusion.
 
